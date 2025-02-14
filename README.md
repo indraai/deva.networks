@@ -1,2 +1,2 @@
-# deva.network
-The Network Deva
+# deva.networks
+The Networks Deva

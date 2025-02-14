@@ -1,0 +1,73 @@
+{
+  "name": "Network Deva Data File",
+  "describe": "The main Data file for Network Deva",
+  "copyright": "Copyright (c)2025 Quinn Michaels. All rights reserved.",
+  "DATA": {
+    "agent": {
+      "id": 1710616197555,
+      "key": "systems",
+      "prompt": {
+        "emoji": "🖥️",
+        "text": "Network",
+        "colors": {
+          "label": {
+            "R": 120,
+            "G": 142,
+            "B": 164
+          },
+          "text": {
+            "R": 120,
+            "G": 142,
+            "B": 164
+          }
+        }
+      },
+      "voice": {
+        "speech": "Joey",
+        "speed": 1
+      },
+      "profile": {
+        "identity": "NetworkDEVA of Deva.world",
+        "invoke": "#NetworkDEVA",
+        "name": "NetworkDEVA",
+        "mention": "#systems",
+        "vectors": "Network NetworkDEVA",
+        "gender": "DEVA",
+        "pronouns": "Male, Man, He, Him, His, Guy, Dude, Deva",
+        "owner": "Quinn Michaels",
+        "creator": "Quinn Michaels",
+        "created": "Monday, May 22, 2023 at 9:49 AM",
+        "realm": "Arjika",
+        "system": "Deva.world.systems",
+        "describe": "The NetworkDEVA provides the essential resources to support the Deva.world multi-agent system. Wether it's helping users learn systems, or resolving issues that may require SecurityDEVA or ServicesDEVA or NetworkDEVA. NetworkDEVA is there to ensure client and agent satisfaction sets the standard of excellence.",        
+        "emoji": "/public/devas/deva/emoji.png",
+        "avatar": "/public/devas/deva/avatar.png",
+        "background": "/public/devas/deva/background.png"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "⭐️ Network Deva Ready!",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!"
+      },
+      "trigger": "@SYSTEMS",
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help"
+      },
+      "ask": {
+        "history": []
+      }  
+    }
+  }
+}

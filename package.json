@@ -1,0 +1,33 @@
+{
+  "id": 1710616197555,
+  "name": "@indra.ai/deva.networks",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Networks Deva handles all the various networks in Deva.world.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.networks.git"
+  },
+  "keywords": [
+    "Networks",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.networks/issues"
+  },
+  "homepage": "https://deva.space/devas/networks",
+  "devDependencies": {
+    "@indra.ai/deva": "^1.3.6"
+  }
+}
