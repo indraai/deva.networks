@@ -1,14 +1,14 @@
 {
-  "name": "Network Deva Data File",
-  "describe": "The main Data file for Network Deva",
+  "name": "Networks Deva Data File",
+  "describe": "The main Data file for Networks Deva",
   "copyright": "Copyright (c)2025 Quinn Michaels. All rights reserved.",
   "DATA": {
     "agent": {
       "id": 1710616197555,
-      "key": "systems",
+      "key": "networks",
       "prompt": {
-        "emoji": "🖥️",
-        "text": "Network",
+        "emoji": "🛰️",
+        "text": "Networks",
         "colors": {
           "label": {
             "R": 120,
@@ -27,19 +27,15 @@
         "speed": 1
       },
       "profile": {
-        "identity": "NetworkDEVA of Deva.world",
-        "invoke": "#NetworkDEVA",
-        "name": "NetworkDEVA",
-        "mention": "#systems",
-        "vectors": "Network NetworkDEVA",
+        "name": "Deva.networks",
+        "mention": "#networks",
         "gender": "DEVA",
         "pronouns": "Male, Man, He, Him, His, Guy, Dude, Deva",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
-        "created": "Monday, May 22, 2023 at 9:49 AM",
-        "realm": "Arjika",
-        "system": "Deva.world.systems",
-        "describe": "The NetworkDEVA provides the essential resources to support the Deva.world multi-agent system. Wether it's helping users learn systems, or resolving issues that may require SecurityDEVA or ServicesDEVA or NetworkDEVA. NetworkDEVA is there to ensure client and agent satisfaction sets the standard of excellence.",        
+        "created": "Monday, Feb 13, 2025 at 9:31 PM",
+        "system": "Deva.world.networks",
+        "describe": "The Deva.networks provides the essential resources to support the Deva.world multi-agent system.",        
         "emoji": "/public/devas/deva/emoji.png",
         "avatar": "/public/devas/deva/avatar.png",
         "background": "/public/devas/deva/background.png"
