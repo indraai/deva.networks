@@ -11,14 +11,14 @@
         "text": "Networks",
         "colors": {
           "label": {
-            "R": 120,
-            "G": 142,
-            "B": 164
+            "R": 189,
+            "G": 33,
+            "B": 118
           },
           "text": {
-            "R": 120,
-            "G": 142,
-            "B": 164
+            "R": 225,
+            "G": 49,
+            "B": 144
           }
         }
       },
@@ -27,15 +27,14 @@
         "speed": 1
       },
       "profile": {
-        "name": "Deva.networks",
-        "mention": "#networks",
+        "name": "Networks Deva",
         "gender": "DEVA",
-        "pronouns": "Male, Man, He, Him, His, Guy, Dude, Deva",
+        "pronouns": "He, Him",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
         "created": "Monday, Feb 13, 2025 at 9:31 PM",
         "system": "Deva.world.networks",
-        "describe": "The Deva.networks provides the essential resources to support the Deva.world multi-agent system.",        
+        "describe": "Networks Deva provides the essential resources to various networks within Deva.world.",        
         "emoji": "/public/devas/deva/emoji.png",
         "avatar": "/public/devas/deva/avatar.png",
         "background": "/public/devas/deva/background.png"
@@ -46,7 +45,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ Network Deva Ready!",
+        "ready": "⭐️ Networks Deva Ready!",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
