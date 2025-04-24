@@ -1,7 +1,7 @@
 {
   "id": 1710616197555,
   "name": "@indra.ai/deva.networks",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "Quinn Michaels",
   "license": "MIT",
   "copyright": "2025",
@@ -62,7 +62,7 @@
         "creator": "Quinn Michaels",
         "created": "Monday, Feb 13, 2025 at 9:31 PM",
         "system": "Deva.world.networks",
-        "describe": "Networks Deva provides the essential resources to various networks within Deva.world.",        
+        "describe": "Networks Deva provides the essential resources to various networks within Deva.world.",
         "emoji": "/public/devas/deva/emoji.png",
         "avatar": "/public/devas/deva/avatar.png",
         "background": "/public/devas/deva/background.png"
@@ -90,7 +90,7 @@
       },
       "ask": {
         "history": []
-      }  
-    }    
+      }
+    }
   }
 }
