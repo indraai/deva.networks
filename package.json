@@ -55,17 +55,27 @@
         "speed": 1
       },
       "profile": {
-        "name": "Networks Deva",
-        "gender": "DEVA",
+        "name": "#NetworksDeva",
+        "title": "Networks Deva",
+        "subtitle": "Providing essential resources to trusted networks",
+        "describe": "Networks Deva provides the essential resources to trusted networks.",
+        "tweet": "Networks Deva provides the essential resources to trusted networks.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,NetworksDeva",
         "pronouns": "He, Him",
+        "gender": "DEVA",
+        "style": "Network architect with senior level experience.",
+        "voice": "onyx",
+        "system": "Deva.world.networks",
+        "layout": "default",
+        "color": "rgb(225,49,144)",
+        "bgcolor": "rgb(0,0,0)",
+        "emoji": "/assets/devas/deva/emoji.png",
+        "avatar": "/assets/devas/deva/avatar.png",
+        "image": "/assets/devas/deva/image.png",
+        "background": "/assets/devas/deva/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
-        "created": "Monday, Feb 13, 2025 at 9:31 PM",
-        "system": "Deva.world.networks",
-        "describe": "Networks Deva provides the essential resources to various networks within Deva.world.",
-        "emoji": "/public/devas/deva/emoji.png",
-        "avatar": "/public/devas/deva/avatar.png",
-        "background": "/public/devas/deva/background.png"
+        "created": "Monday, Feb 13, 2025 at 9:31 PM"
       }
     },
     "vars": {
