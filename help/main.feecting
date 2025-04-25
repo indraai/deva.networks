@@ -1,7 +1,10 @@
 ::BEGIN:MAIN
-# {{profil.ename}}
+img: {{profile.image}}
+
+# {{profile.name}}
 
 {{profile}}
+
 
 ::begin:hidden
 #color = {{profile.color}}
