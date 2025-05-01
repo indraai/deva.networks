@@ -1,8 +1,8 @@
 export default {
   /**************
-  method: networks
+  method: Networks
   params: packet
-  describe: The global networks feature that installs with every agent
+  describe: The global service feature that installs with every agent
   ***************/
   networks(packet) {
     this.context('feature');
@@ -11,28 +11,34 @@ export default {
       const agent = this.agent();
       const global = [];
       networks.global.forEach((item,index) => {
-        global.push(`::begin:global:${item.key}:${item.id}`);
+        global.push(`::begin:${item.key}:${item.id}`);
         for (let x in item) {
           global.push(`${x}: ${item[x]}`);
         }
-        global.push(`::end:global:${item.key}:${this.lib.hash(item)}`);
+        const thehash = this.lib.hash(item);
+        global.push(`hash: ${thehash}`);
+        global.push(`::end:${item.key}:${thehash}`);
       });
       const concerns = [];
       networks.concerns.forEach((item, index) => {
         concerns.push(`${index + 1}. ${item}`);
-      });
-    
+      })
+      
       const info = [
         '::BEGIN:NETWORKS',
-        '### Client',
-        `::begin:client:${networks.client_id}`,
+        `::begin:client`,
+        '## Client',
         `id: ${networks.client_id}`,
         `client: ${networks.client_name}`,
-        '**concerns**',
-        concerns.join('\n'),
-        `::end:client:${this.lib.hash(networks)}`,
-        '### Global',
+        `::end:client}`,
+        concerns.length ? `::begin:concerns` : '',
+        concerns.length ? '## Concerns' : '',
+        concerns.length ? concerns.join('\n') : '',
+        concerns.length ? `::end:concerns` : '',
+        '::begin:global',
+        '## Global',
         global.join('\n'),
+        '::end:global',
         '::END:NETWORKS',
       ].join('\n');
       this.question(`${this.askChr}feecting parse ${info}`).then(feecting => {
@@ -43,7 +49,7 @@ export default {
         });
       }).catch(err => {
         return this.error(err, packet, reject);
-      });
+      })
     });
   },
 };

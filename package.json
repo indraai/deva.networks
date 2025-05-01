@@ -28,7 +28,7 @@
   },
   "homepage": "https://deva.space/devas/networks",
   "devDependencies": {
-    "@indra.ai/deva": "^1.4.22"
+    "@indra.ai/deva": "^1.5.37"
   },
   "data": {
     "agent": {
@@ -55,10 +55,11 @@
         "speed": 1
       },
       "profile": {
-        "name": "#NetworksDeva",
+        "name": "Networks Deva",
+        "hashtag": "#NetworksDeva",
         "title": "Networks Deva",
         "subtitle": "Providing essential resources to trusted networks",
-        "describe": "Architect focused on providing essential resources to trusted networks. Ensuring that network connections are robust, secure, and efficient to provide seamless communication and collaboration across our community.",
+        "describe": "Ensuring that networks are robust, secure, and efficient to provide seamless communication.",
         "tweet": "Networks Deva focused on providing essential resources to trusted networks.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,NetworksDeva",
         "pronouns": "He, Him",
