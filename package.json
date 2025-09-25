@@ -1,10 +1,23 @@
 {
-  "id": 1710616197555,
+  "id": "28046590011143337501",
   "name": "@indra.ai/deva.networks",
   "version": "0.0.71",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:28046590011143337501 LICENSE.md",
+  "VLA": {
+    "uid": "28046590011143337501",
+    "time": 1758809195802,
+    "date": "Thursday, September 25, 2025 - 7:06:35 AM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "svN8OfGf2uhSSsrTBXsCBM8K0lZ3fiORaBxMTtVR7QY=",
+    "core": "NHcFfowqwPTB/NeAlPubuT1TSZyg9+fT4Jr765bU4jQ=",
+    "machine": "Jk8yKj64SICKxV7/I5fSQ77fH8T+b5GSHJwQcYhp1Us=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "iCdYpnPBjwghIsr+8YgwbQ==",
+    "sha256": "bPLwmRHlmAGDo0Arkrq+apxfrc4wfGrDpuYEhNyODic=",
+    "sha512": "MeWvhSJazt/UkLexU85v85jNPAGKxkHu5JlN6aR4lpQoUnWQjkFROt2bG+v4IR1JsANaz4fsZJL96vtq+jY9fQ=="
+  },
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Networks Deva handles all the various networks in Deva.world.",
   "main": "index.js",
   "type": "module",
@@ -18,43 +31,43 @@
   "keywords": [
     "Networks",
     "Deva",
+    "Networks Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.networks/issues"
   },
-  "homepage": "https://deva.space/devas/networks",
+  "homepage": "https://indra.ai",
   "devDependencies": {
     "@indra.ai/deva": "^1.6.102"
   },
   "data": {
     "agent": {
-      "id": 1710616197555,
+      "id": "68339791754661259329",
       "key": "networks",
       "prompt": {
         "emoji": "🛰️",
-        "text": "Networks",
+        "text": "#networks",
         "colors": {
           "label": {
-            "R": 129,
-            "G": 121,
-            "B": 91
+            "R": 177,
+            "G": 222,
+            "B": 254
           },
           "text": {
-            "R": 196,
-            "G": 198,
-            "B": 174
+            "R": 0,
+            "G": 150,
+            "B": 255
           }
         }
       },
-      "voice": {
-        "speech": "Joey",
-        "speed": 1
-      },
       "profile": {
+        "id": "51105548463967295067",
         "name": "Networks Deva",
         "hashtag": "#NetworksDeva",
         "title": "Networks Deva",
@@ -70,12 +83,13 @@
         "layout": "default",
         "color": "rgb(196,198,174)",
         "bgcolor": "rgb(14,27,46)",
-        "emoji": "/assets/devas/networks/emoji.png",
-        "avatar": "/assets/devas/networks/avatar.png",
-        "image": "/assets/devas/networks/image.png",
-        "background": "/assets/devas/networks/background.png",
-        "owner": "Quinn Michaels",
-        "creator": "Quinn Michaels",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Feb 13, 2025 at 9:31 PM"
       }
     },
@@ -84,7 +98,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ READY!",
+        "ready": "✅ Networks Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
