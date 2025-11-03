@@ -37,14 +37,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.networks/issues"
   },
   "homepage": "https://indra.ai",
   "devDependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.1"
   },
   "data": {
     "agent": {
@@ -83,12 +85,13 @@
         "layout": "default",
         "color": "rgb(196,198,174)",
         "bgcolor": "rgb(14,27,46)",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
+        "emoji": "/devas/networks/emoji.png",
+        "avatar": "/devas/networks/avatar.png",
+        "image": "/devas/networks/image.png",
+        "background": "/devas/networks/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "warning": "⚠️ If you are found violating or illegally accessing Quinn A Michaels networks the first person he is going to call is your mother and send her all your dirty business. Does that sound fun?",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Feb 13, 2025 at 9:31 PM"
       }
