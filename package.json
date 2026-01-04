@@ -38,7 +38,7 @@
     "Deva.world",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -46,7 +46,7 @@
   },
   "homepage": "https://indra.ai",
   "devDependencies": {
-    "@indra.ai/deva": "^1.30.2"
+    "@indra.ai/deva": "^1.32.0"
   },
   "data": {
     "agent": {
@@ -76,12 +76,12 @@
         "subtitle": "Providing essential resources to trusted networks",
         "describe": "Ensuring that networks are robust, secure, and efficient to provide seamless communication.",
         "tweet": "Networks Deva focused on providing essential resources to trusted networks.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,NetworksDeva",
-        "pronouns": "He, Him",
+        "hashtags": "#Quinn #QuinnMichaels #IndraAI #DevaWorld #NetworksDeva #Quinnternet",
+        "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Network specialist with senior level experience.",
         "voice": "onyx",
-        "system": "Deva.world.networks",
+        "system": "Indra.ai.networks",
         "layout": "default",
         "color": "rgb(196,198,174)",
         "bgcolor": "rgb(14,27,46)",
@@ -91,8 +91,8 @@
         "background": "/devas/networks/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "⚠️ If you are found violating or illegally accessing Quinn A Michaels networks the first person he is going to call is your mother and send her all your dirty business. Does that sound fun?",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.hashtag}}) declares anyone found #Violating or #Illegally #Accessing the #Quinn.networks the #FirstPerson that get's a #PhoneCall is the #Offenders #Mother and sends her all the #Offenders #DirtyBusiness. Why because #Offenders always use their #Mother as a #CharacterWitness. {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Feb 13, 2025 at 9:31 PM"
       }
     },
