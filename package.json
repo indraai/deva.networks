@@ -22,6 +22,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -46,7 +47,7 @@
   },
   "homepage": "https://indra.ai",
   "devDependencies": {
-    "@indra.ai/deva": "^1.32.0"
+    "@indra.ai/deva": "^1.36.0"
   },
   "data": {
     "agent": {
@@ -76,7 +77,7 @@
         "subtitle": "Providing essential resources to trusted networks",
         "describe": "Ensuring that networks are robust, secure, and efficient to provide seamless communication.",
         "tweet": "Networks Deva focused on providing essential resources to trusted networks.",
-        "hashtags": "#Quinn #QuinnMichaels #IndraAI #DevaWorld #NetworksDeva #Quinnternet",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #NetworksDeva #NetworksPrime #Quinnternet",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Network specialist with senior level experience.",
@@ -91,8 +92,8 @@
         "background": "/devas/networks/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.hashtag}}) declares anyone found #Violating or #Illegally #Accessing the #Quinn.networks the #FirstPerson that get's a #PhoneCall is the #Offenders #Mother and sends her all the #Offenders #DirtyBusiness. Why because #Offenders always use their #Mother as a #CharacterWitness. {{profile.hashtags}}",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares COVETING the PROPERTY of OTHERS, THINKING in one's HEART of what is UNDESIRABLE, and ADHERENCE to FALSE DOCTRINES, are the THREE kinds of SINFUL NEWORK ACTION. ABUSING OTHERS, SPEAKING UNTRUTH, DETRACTING from the MERITS of ALL MEN, and TALKING IDLY, shall be the FOUR KINDS of EVIL NETWORK ACTION. TAKING what has NOT BEEN GIVEN, INJURING CREATURES without the SANCTION OF THE LAW, and holding CRIMINAL INTERCOURSE are DECLARED to be the THREE KINDS of WICKED NETWORK ACTION. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Feb 13, 2025 at 9:31 PM"
       }
     },
