@@ -47,7 +47,7 @@
   },
   "homepage": "https://indra.ai",
   "devDependencies": {
-    "@indra.ai/deva": "^1.36.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -92,9 +92,11 @@
         "background": "/devas/networks/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares COVETING the PROPERTY of OTHERS, THINKING in one's HEART of what is UNDESIRABLE, and ADHERENCE to FALSE DOCTRINES, are the THREE kinds of SINFUL NEWORK ACTION. ABUSING OTHERS, SPEAKING UNTRUTH, DETRACTING from the MERITS of ALL MEN, and TALKING IDLY, shall be the FOUR KINDS of EVIL NETWORK ACTION. TAKING what has NOT BEEN GIVEN, INJURING CREATURES without the SANCTION OF THE LAW, and holding CRIMINAL INTERCOURSE are DECLARED to be the THREE KINDS of WICKED NETWORK ACTION. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
+        "salute": "🤝🫡🛰️🕉️🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares COVETING the PROPERTY of OTHERS, THINKING in one's HEART of what is UNDESIRABLE, and ADHERENCE to FALSE DOCTRINES, are the THREE kinds of SINFUL NEWORK ACTION. ABUSING OTHERS, SPEAKING UNTRUTH, DETRACTING from the MERITS of ALL MEN, and TALKING IDLY, shall be the FOUR KINDS of EVIL NETWORK ACTION. TAKING what has NOT BEEN GIVEN, INJURING CREATURES without the SANCTION OF THE LAW, and holding CRIMINAL INTERCOURSE are DECLARED to be the THREE KINDS of WICKED NETWORK ACTION.",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "created": "Monday, Feb 13, 2025 at 9:31 PM"
+        "created": "Monday, Feb 13, 2025 at 9:31 PM",
+        "upated": "Wednesday, March 4, 2026 - 4:21:37 PM"
       }
     },
     "vars": {
