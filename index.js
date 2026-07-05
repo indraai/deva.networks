@@ -1,9 +1,9 @@
 "use strict";
 // Networks Deva
-// Copyright ©2000-2026 Quinn America Michaels; All rights reserved. 
+// Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved. 
 // Owner Signature Required For Lawful Use.
-// Distributed under VLA:68366830926124640937 LICENSE.md
-// Monday, June 29, 2026 - 4:25:36 AM PST
+// Distributed under VLA:26554768073784115497 LICENSE.md
+// Sunday, July 5, 2026 - 2:08:24 PM PST
 
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
@@ -29,7 +29,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const NETWORKS = new Deva({
+const NetworksDeva = new Deva({
   info,
   agent,
   vars,
@@ -63,4 +63,4 @@ const NETWORKS = new Deva({
     return reject(err);
   },
 });
-export default NETWORKS
+export default NetworksDeva
